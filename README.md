@@ -1,4 +1,4 @@
-# [Assignments for Web Engg 2 course](http://mobileboilerplate.com/)
+# [Code Submissions for Web Engg 2 course](http://mobileboilerplate.com/)
 
 This code is part of the assignment submission for the "Web Engineering II: 
 Developing Mobile HTML5 App" course conducted by Prof. Dr. Klaus Quibeldey-Cirkel.
